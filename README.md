@@ -1,2 +1,3 @@
 # Gfortran-Tutorial
-Hellow! this is me Pawan Joshi from Central Department of Physics, Tribhuvan Univerity. In this repository, you can find all the tutorilas and practice codes taught in computational class to 2077 batch students. All codes are written in Gfortan and the basics of it is also discussed.
+### Hi, 
+### I am Pawan Joshi. In this repository, you can find the tutorials and solved practice problems codes which were taught in computational course (year 2077) at Central Departments of Physics, Trubhuwan University, Nepal. Please check the files names properly.
